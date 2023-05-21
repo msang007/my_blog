@@ -56,9 +56,56 @@ export const Album = () => {
                             <p>Kurama</p>
                         </div>
                     </div>
-                  
+                    <div className="card">
+                        <img src="/assets/img/Kuramaimg1.jpg" alt="Image1" />
+                        <div className="card-content">
+                            <h2>My Personnal Blog</h2>
+                            <p>Kurama</p>
+                        </div>
+                    </div>
+                    <div className="card">
+                        <img src="/assets/img/Kuramaimg1.jpg" alt="Image1" />
+                        <div className="card-content">
+                            <h2>My Personnal Blog</h2>
+                            <p>Kurama</p>
+                        </div>
+                    </div>
+                    <div className="card">
+                        <img src="/assets/img/Kuramaimg1.jpg" alt="Image1" />
+                        <div className="card-content">
+                            <h2>My Personnal Blog</h2>
+                            <p>Kurama</p>
+                        </div>
+                    </div>
+                    <div className="card">
+                        <img src="/assets/img/Kuramaimg1.jpg" alt="Image1" />
+                        <div className="card-content">
+                            <h2>My Personnal Blog</h2>
+                            <p>Kurama</p>
+                        </div>
+                    </div>
+                    <div className="card">
+                        <img src="/assets/img/Kuramaimg1.jpg" alt="Image1" />
+                        <div className="card-content">
+                            <h2>My Personnal Blog</h2>
+                            <p>Kurama</p>
+                        </div>
+                    </div>
+                    <div className="card">
+                        <img src="/assets/img/Kuramaimg1.jpg" alt="Image1" />
+                        <div className="card-content">
+                            <h2>My Personnal Blog</h2>
+                            <p>Kurama</p>
+                        </div>
+                    </div>
+                    <div className="card">
+                        <img src="/assets/img/Kuramaimg1.jpg" alt="Image1" />
+                        <div className="card-content">
+                            <h2>My Personnal Blog</h2>
+                            <p>Kurama</p>
+                        </div>
+                    </div>
                 </div>
-
             </div>
         </div>
     )
