@@ -37,11 +37,10 @@ export const Home = () => {
                 <section style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
                     <img src="/assets/img/profilePic.jpg" alt="PhotoProfile" className="profilePic" />
                     <h2 className="nom">Mamadou Sangare</h2>
-                    <p className="Texte-Home">Je suis passionne de Lecture, Jeux Videos, Nature, Sport, Musique, Photography</p>
+                    <p className="Texte-Home">Je suis passionne de Lecture, Jeux Videos, Nature, Sport, Musique, Photographie</p>
                 </section>
             </div>
             <Footer />
         </div>
-
     )
 }
